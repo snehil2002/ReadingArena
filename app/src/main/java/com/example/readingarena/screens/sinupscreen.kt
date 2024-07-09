@@ -67,7 +67,7 @@ import com.google.firebase.firestore.FirebaseFirestore
 
 
             Text(
-                text = "Sinup",
+                text = "Signup",
                 fontSize = 30.sp,
                 color = Color.LightGray,
                 fontWeight = FontWeight.Bold,
@@ -90,7 +90,7 @@ import com.google.firebase.firestore.FirebaseFirestore
                     .fillMaxWidth()
                     .padding(10.dp).focusRequester(repassfocus),
             onaction = {keyboardcontroller?.hide()})
-            submitbutton(label = "Sinup", modifier = Modifier
+            submitbutton(label = "Signup", modifier = Modifier
                 .fillMaxWidth()
                 .padding(10.dp)
                 .clip(

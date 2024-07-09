@@ -104,7 +104,7 @@ passfield(passvalue = passinput, singleline = true, imeaction = ImeAction.Done, 
                 .fillMaxWidth()
                 .padding(10.dp), horizontalArrangement = Arrangement.Center) {
                 Text(text = "New User? ", color = Color.White, fontSize = 20.sp)
-                Text(text = "Sinup", fontWeight = FontWeight.Bold, color = Color.Cyan, fontSize = 20.sp,
+                Text(text = "Signup", fontWeight = FontWeight.Bold, color = Color.Cyan, fontSize = 20.sp,
                 modifier = Modifier.clickable { navcontroller.navigate(Readerscreens.Sinupscreen.name) })
 
 
