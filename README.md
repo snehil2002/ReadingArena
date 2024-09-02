@@ -1,4 +1,4 @@
-APK LINK : https://drive.google.com/file/d/10_O5GikLMqcYq7RgKXlezNsPegzmj1DY/view?usp=drive_link
+APK LINK : https://drive.google.com/file/d/1n6LKHIawx9XruhN5z83PHJvMcgfVn_ha/view?usp=drive_link
 
 SCREENSHOTS :
 
